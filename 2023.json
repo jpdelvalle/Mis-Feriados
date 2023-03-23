@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Domingo primero",
+        "comentarios": null,
+        "fecha": "2023-01-01",
+        "irrenunciable": "1",
+        "tipo": "Domingo"
+    },
+    {
+        "nombre": "Domingo segundo",
+        "comentarios": null,
+        "fecha": "2023-01-08",
+        "irrenunciable": "0",
+        "tipo": "Domingo"
+    },
+    {
+        "nombre": "Domingo tercero",
+        "comentarios": null,
+        "fecha": "2023-04-15",
+        "irrenunciable": "0",
+        "tipo": "Domingo"
+    },
+    {
+        "nombre": "Domingo cuarto",
+        "comentarios": null,
+        "fecha": "2023-04-23",
+        "irrenunciable": "0",
+        "tipo": "Domingo"
+    },
+    
